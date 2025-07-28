@@ -46,3 +46,5 @@ Execution: Compiled and run using javac and java commands via terminal.
 OUTPUT
 
 <img width="1919" height="1130" alt="17537000555454009185733639947207" src="https://github.com/user-attachments/assets/a8a0f7b6-4b0d-4884-9d0a-98b2c844cda3" />
+
+<img width="1919" height="1128" alt="17537001210293633908162619888564" src="https://github.com/user-attachments/assets/9166054b-7177-4c5a-9b6e-e91d1a713083" />
